@@ -68,3 +68,73 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/nbadal
 
 ==================================================================
+==================================================================
+https://keybase.io/nbadal
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://nbad.al
+  * I am nbadal (https://keybase.io/nbadal) on keybase.
+  * I have a public key with fingerprint 115E 856D 3DB4 56DA 934E  1B14 7429 A381 8A69 6165
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "115e856d3db456da934e1b147429a3818a696165",
+            "host": "keybase.io",
+            "key_id": "7429a3818a696165",
+            "uid": "0c290f9346d3fd92019587df12d58a00",
+            "username": "nbadal"
+        },
+        "service": {
+            "hostname": "nbad.al",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1415839157,
+    "expire_in": 157680000,
+    "prev": "c700a7805eaf8587ef42a4a9dae94263f10c3d99975458c9d839b25ed580bbd1",
+    "seqno": 14,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.1.3
+Comment: https://keybase.io/crypto
+
+yMLtAnicO8LLzMDFWKK5uLErMzGV8fSB16UMIcl/t1YrJeWnVCpZVStlp4KptMy8
+9NSigqLMvBIlKyVDQ9NUC1OzFOOUJBMglWhpbJJqmGRoYm5iZJlobGFokWhmaWZo
+Zqqko5SRXwzSATQmKbE4VS8zHygG5MRnpgBFsagvBUsYJBtZGqQBjQXakZZiaWRg
+aGlqYZ6SZmiUYmqRaGAAUlicWpSXmJsKVJ2XlJiSmKNUq6MEFCvLTE4FuRhkMZK8
+HlCBjlJBUX5JfnJ+DlAwo6SkwAqkp6SyAKSoPDUpHqo9PikzLwXoYaCGstSi4sz8
+PCUrQ6DK5JJMkHmGJoamFsaWhqbmOkqpFQWZRanxmSAVpuZmFgZAALImtQxoZLK5
+gUGiuYWBaWpimgXQ/alpJkaJJomWKYmpliZGZsZphgbJximWlpbmpiamFsmWKUBT
+k4xMU4F+NEhKSjFUAnmoMC8fZCXQnYnpQDOLM9PzEktKi1KVag8djGFhYORiYGNl
+AsUZAxenACwm7abw/zPYJFS+UEHjwv4bkdK1omGrZrz/sCfWb9bVRHbNmT2bqo8b
+rd61IUzoe8bdhNMbyoRuX97naJqRXBt4UWFrWciHdy6hrMIzejjlXqxN0v+cZL/9
+VOCMQ9MCEoLziq99eR1xlyMq+YvQ0eZ5HmFPr3H9Xfeom+cNG2uHo0vkugmXQ9Zs
+VXKcv9OboVZ/yenNV8O4tm9dFyDwI8rKXOfH7UcMZi9+mrQ0n+S8z/IjyWHTD3HT
+xdoZX+QuvIlICv6avPXwrPeealU3zOQsJe8ln1X9bL1ui6JfIeeuF4KBJWxrF6SY
+7d8W7dar9N31q+1mHqWNB/f0B54Nucmyc77b2vUafzU3pOvNsH5+bMOFttAgM0kb
+Lu39N2cIx3w03ctz+OLZq39PRNdmLD+4ifP106RtESuW5ylwriiw0V3+1n3x751H
+z12plJt5eOvSqhWzbxRvvG1211g24fDKMtYE/Ys37lww+lr9QX3rD0/Zp2GS62tS
+md/MMbx/4NmcflX2BdqvKiLkM5d3LLMtvfJ8xaHU1Pa3+8uPRkR7ZmYF5Zq+jeBS
+SunlTxR14WBYazgxSP72zoefyy9pz0zjOJ+/LTv5q9PTB8ejo7t+Ssbv62gMZ/+6
+PPPfHsM0jrdF9xzD4wvZ5Stazz69bWI/7dsL42ornq4Pt27wabBJGH+91v71zVeN
+fs413NN3zLqt5Pp3/4PqJO0//84J/RTKLj4LACchlLk=
+=A5ow
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nbadal
+
+==================================================================
