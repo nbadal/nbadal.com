@@ -4,7 +4,7 @@ https://keybase.io/nbadal
 
 I hereby claim:
 
-  * I am an admin of https://nbadal.com
+  * I am an admin of http://nbadal.com
   * I am nbadal (https://keybase.io/nbadal) on keybase.
   * I have a public key with fingerprint 115E 856D 3DB4 56DA 934E  1B14 7429 A381 8A69 6165
 
@@ -19,17 +19,22 @@ To claim this, I am signing this object:
             "uid": "0c290f9346d3fd92019587df12d58a00",
             "username": "nbadal"
         },
+        "revoke": {
+            "sig_ids": [
+                "2b213dc4635f59a6ea9b636156bdcecc44a57d5ec414457292867d7a929e86840f"
+            ]
+        },
         "service": {
             "hostname": "nbadal.com",
-            "protocol": "https:"
+            "protocol": "http:"
         },
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1415838945,
+    "ctime": 1415914365,
     "expire_in": 157680000,
-    "prev": "6f21ee52e432b4736caecba7a851959cf4e18be514a4774fd48fd918219cb0b1",
-    "seqno": 13,
+    "prev": "c6cf88a023de28d18ab6f13008640305b590e1fb542cf58a502340dd7d5b32ad",
+    "seqno": 17,
     "tag": "signature"
 }
 
@@ -39,27 +44,29 @@ with the aforementioned key, yielding the PGP signature:
 Version: Keybase OpenPGP v1.1.3
 Comment: https://keybase.io/crypto
 
-yMLvAnicO8LLzMDFWKK5uLErMzGV8fSB96UMIcl/HlYrJeWnVCpZVStlp4KptMy8
-9NSigqLMvBIlKyVDQ9NUC1OzFOOUJBMglWhpbJJqmGRoYm5iZJlobGFokWhmaWZo
-Zqqko5SRXwzSATQmKbE4VS8zHygG5MRnpgBFsagvBUsYJBtZGqQBjQXakZZiaWRg
-aGlqYZ6SZmiUYmqRaGAAUlicWpSXmJsKVJ2XlJiSmKNUq6MEFCvLTE4FuRhkMYq8
-XnJ+LlBfQVF+SX5yfg5QPKOkpKDYCqSvpLIApLA8NSkeakR8UmZeCtDTQB1lqUXF
-mfl5SlaGQJXJJZkgMw1NDE0tjC0sTUx1lFIrCjKLUuMzQSpMzc0sDIAAZE9qGdBI
-szQjw9RUU6NUE2OjJBNzY7PkxNTkpETzRAtToJ8sk9OAIWeRlGpqaJJoYm5ukpZi
-YgH0sKGFkaFlcpJBkqESyFOFeflAs42B7kxMB5pZnJmel1hSWpSqVHvoYAwLAyMX
-AxsrEyjeGLg4BWCxGdImwLDixornrDcjZcLmRHFYV/OnSryMkPjld+2ryPEG2Tvn
-ioK//l7kb/iojP/RsYWzBT91vVySZRq8ybnkjAHH66lBLy115xd9tV60RlJw2cUT
-gfP88hSWnP8V+H2VlF2z9YQjovN8bLuPHEnTcHm7aIaE5s6nx66l3bCQT998Kv/G
-pgeugqYmLcaczn9OTnZR2P+Dt/pO1MuImMOPv7aZr9oWY/XWj5cj/0cb9698ZsXc
-WTuumwoWpCf0JM04sDxbwLhf6tW8meI3dxrIzxbQXfd4yoEIrpq7uY9epIn3H+vd
-3v1YZIaPop0F71z9ys8P7ptUbZiVpJ9aHP76U9qWUFmxeStuqBsaJl/eYSVjZJgV
-M2df6ukm/brNdY2upz/oVp6+0Xp9yawdjWnzrkX4ql9RvP4jRF38nknQmWPnfugy
-9x1+efj4D+WE4prlSnZBCcZc07ZxRXx7bNdv1bD/TfzTxIOLkv7f9X7kcXdb+DJF
-YZ8rxtWFkxwltqUvndwhqnlbwjI75/WD/4IlQrdi5v9n10/8tr3DymHVpwRxo0KW
-7dcZ+Sr+bGSWWZ//ntV9Ys5Z8bnpMxt3Ci4pfeJqfeSJy7qlOzwkzxY/5Jul/jN1
-u5H52p/xjGoZZ3zP3RHxfNZa6L77h5P3jSMxz7i6z2+/GHrHKKi19NBy7wvvzXab
-py6Wufp6RvmtK2YxKoenPtq5R88jZEaK+D3JLU4AivmR7A==
-=/PxK
+yMM3AnicbZJ9UFRVGMYXlC1YMhoXhtRouhiNSHi/zv1YhMwR7WPWTRJkhQXvx7lw
+A/fu3v1wCRlECqESFESdSUXUwCE/aiaNmGkLYyYGd3QGR6GBKYVKxzLHTMZQsnOZ
++qOZzj9nznue83ve95kz8MQcU1yUf8nRuvdUAUad738tYFoPU2uqMVGTqzBbNVYB
+ZzdFdZdB3aOrbj9mwwgCQA4wMiWLNNoEnqIhIRI0S5O8QHEEJzA8QzAAy8DKNZ/x
+AmFEwQczVQ3V0KFUlVH1f/SB2QtcInlcQVjkocg8iRM84FhZIUgZcAKOG0If1N3C
+ZojUblGQhUqsJgPTYVCrgEbDPrUMefgwWxFGiiRByRLNUEABvMBAgRcZiiEAI8oS
+lCSaFgArAyjRBE0DluRJjmFlVuBJHnIMR+MK5kJs5BdUpVm4MdR/vDMlbTPqyaNr
+fk3SKlG93O/32IyW/FUeQ7cFiqX/EEpF1S2jPNGDINR9qubGbARSSn7VQBI0AXiC
+phiQgcGQR9VhqWooAMtwOFqGDQwipMRICofSICkZkpyMUhQZhaBwnGNonMKBCHgc
+EooIaFJSUGwAKWlcltGsIkUKMmbM5HVriM2iPoUyxESxuQV/QIdYzbn+4rmmqDiT
+OSba+BKmuNiEfz9Kx9STDy3klaVD2ZbXZ97xBr2dt2qtzY4jbK6esDW3+0rkq6V5
+O2j9ZoP5ofXFWD39+fmb7k0kbtoz/sfPVql+9x3XcMoHbWnk3YGm0Qiw1H/Ysi/7
+zfyN8V37vrZWZa7Zfnh/4bITDu2AefRgbOyhk6vtxY5nY6a94bHswDQkUqvTTp+0
+nXBV4h3s4K+LqU73+5HM9PuhL7pqgcmm9q79YS1IuJHa3N7ze8lP1iXOVxvT3wo3
+KeButWbeeqCRuOmMrJo8Gx63Mry96Zfl4OkNOZOO/vPnFs1vmODGzKHuhmtXF+1N
+dox6KCI+ao++46nayHdTOdf0GHZX57xAU4E9tmLZTl99xv4UIpR2/Jv26KEzuz8u
+TTRHX4z+7NaY+ceVg/asvDWX60YPdzyYaewwfZl/ZmDdczFH40cev3A9sZhv6btE
+z931aR1TMmSutt2+3dIz3iauW1E1yfqdlmMLh6+2et8tX44PhmuIOS9kbenbuOA3
+34qCmQkmyeW6fPCQ3dE4k160oEBs4z4aJEMl4dWW07XZvXpO1/Rfx11y4TOtTMJk
+96mihDs533uD2xjL8J/hqcwj27/t6Wt+I8qePPVg7HMn7kzOX5z7KO6UZ1tS0aVA
+5BNl/V7zzkcbpPKpvHwZXM9qfyX9pcHC+2fDNzLeXphysfWxl4+RI0lOS2/9vXkr
+yy+MDP8NPiuYKA==
+=RTUP
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -68,6 +75,7 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/nbadal
 
 ==================================================================
+
 ==================================================================
 https://keybase.io/nbadal
 --------------------------------------------------------------------
