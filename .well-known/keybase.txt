@@ -1,0 +1,168 @@
+==================================================================
+https://keybase.io/nbadal
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://nbad.al
+  * I am nbadal (https://keybase.io/nbadal) on keybase.
+  * I have a public key with fingerprint 115E 856D 3DB4 56DA 934E  1B14 7429 A381 8A69 6165
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010152117c1806fed0dca0abc141112bc909e33024f9c076ecb6bfd93d1f95c98d320a",
+            "fingerprint": "115e856d3db456da934e1b147429a3818a696165",
+            "host": "keybase.io",
+            "key_id": "7429a3818a696165",
+            "kid": "010152117c1806fed0dca0abc141112bc909e33024f9c076ecb6bfd93d1f95c98d320a",
+            "uid": "0c290f9346d3fd92019587df12d58a00",
+            "username": "nbadal"
+        },
+        "revoke": {
+            "sig_ids": [
+                "9494cc8b69051b77c1317675aa92e03dfc36707fca820b29a96f72aa3b46d9820f"
+            ]
+        },
+        "service": {
+            "hostname": "nbad.al",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1490145234,
+    "expire_in": 157680000,
+    "prev": "6ca4bbbcc3d10e6cad3aeda594a36c9c9c56b67e8da24f30545521db3d6ef239",
+    "seqno": 26,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.66
+Comment: https://keybase.io/crypto
+
+yMN9AnicrVJtUFRVGN7lM2EACxMSBbmGQO6w9/vu3XKIEqeYMCxTlNXtnHvPxSu0
+u9zdRZHQEXQcMRpCS5QUhiQRpsESoRE/4lMkTJdq1ArSkBEJm8EwNaM6SzXTj352
+zo8z7zvP+zzPec7pCvHVBeldiR9sK1UB0n/ePu7WZXouDhQS0C4XEOZCIgdNHyhX
+Rk6XNUeVCTNBUiTF0RQlSJSJ5BUkk7IESAAliqUoioaSSIqIYUiaVUSJFHgkQR4q
+ssjIlCJykmiSGZoEhIFQVFs20hyaanNhWorikInjZUaGLD6AyLCIghQrsLQIGBNl
+ArzIUzyHB9fbnd4JbA4CJ0pS7biHC+u0vf/A/8++3X/RSbRIKtgltoxRNEmJnEmQ
+FYqWORMgSS/QiTQbeANhtA0CGeQSRQZCQ/n2HORN1almY8tOwpxFiKzISpIJ8iLJ
+UVDAFhlK4AUOAJFGJCMrEsMLpKBIwESTEF9Q5BWBBoCBWF7EPYVYi7mxXr4qTZN7
+M/qXdhIWNxAOze6yS/Zc3FzvcjnMXj+uAocXtBFB69/jVqjaZPw2eCAfaU7VbiPM
+FEZKLtXLR7EiSbEczbAGAm1yqBqyql4EJ/AmEi+vDMrHlLwEWAihJOEESYQrmQFI
+BpzIAoaXRLw5HvICMskAZ86QHMvh95EhI/NIoRmR8F4oz2YnzDSPfYJszIkzswGX
+W0NEUUe7xU+nD9IF+Pt4P60uaMbMf75yQ2PYVKS1sezKW5uerlkXmFL3aUZP+A8W
+21dZ95svFszJ6L2/pPZm2fECe3/KrJiWj4eHgx7p/5bu9Nx94kZfb+xYZmXb7Fsf
+tZQOtR7eOWYcsxzxJOy8fnMs8mRn1croXfTC3JGamXFzz4zDpMHfa5+qWrbk8a15
+eS5tAVtwu/azq8JkYru+sbVx1Z3jpxaZxsHWB0eFgIaOCxH3yrP1iU2V5+u/PvQ8
+9FiMLw3C9E8OG2fvKyjRb6l7IfTq8rtrQn2vNV2Ya3mnrT9u2JV8tqN7Vtqtlt2F
+PV27I2pse7P67jwavMD+W2QY/DB23ts3rCnmzkvcFLN/O+zpOHjizMI/bGrx4oHw
+S8HOmCOBhvhnmk41q75lvu6XpXCflhPfJJzj0iPCrhRNGk6mqANn362CI1pU6M89
+B7bvq45e68mr3rNhv30ydfjN8srnijd3r4ibcbTmUFr0xHsvimWhS93L9q6KqjF2
+JD0sP1122hjgvp4x/9X0cw/Srg2WONr8tg3By4mdOaHyw/cfC1tUtWJps3GO2TDx
+00DXRPGPZPDrIatL+l4La82fuvfLsdjNIc+OVKweHa2kVx6IfzJw1GfUEjyUWeEY
+3aFfl2T5vnDXeemLhHkNNu7LwW7W2qDVpb4Sq0v133M5cE1p9Xee2/719dqGqPaY
++VuUkd5qo19xVcXynqD45OTajb8eCzi4OM31J/2R1eE=
+=abDt
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nbadal
+
+==================================================================
+
+==================================================================
+https://keybase.io/nbadal
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nbadal.com
+  * I am nbadal (https://keybase.io/nbadal) on keybase.
+  * I have a public key with fingerprint 115E 856D 3DB4 56DA 934E  1B14 7429 A381 8A69 6165
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010152117c1806fed0dca0abc141112bc909e33024f9c076ecb6bfd93d1f95c98d320a",
+      "fingerprint": "115e856d3db456da934e1b147429a3818a696165",
+      "host": "keybase.io",
+      "key_id": "7429a3818a696165",
+      "kid": "010152117c1806fed0dca0abc141112bc909e33024f9c076ecb6bfd93d1f95c98d320a",
+      "uid": "0c290f9346d3fd92019587df12d58a00",
+      "username": "nbadal"
+    },
+    "merkle_root": {
+      "ctime": 1510771280,
+      "hash_meta": "b509746af788e2a7a596826efdad6c0e5a8d2dcf8c08b17b1dd9f8628af78da9",
+      "seqno": 1708228
+    },
+    "revoke": {
+      "sig_ids": [
+        "eb1413e1c7b6dedfa02a6dec350b5df99dda9a393aa016dfaeffe091434b3cec0f"
+      ]
+    },
+    "service": {
+      "hostname": "nbadal.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1510771292,
+  "expire_in": 157680000,
+  "prev": "67290114ab384d17449f8a3fe31eb9e64708cfa7f1920d28ed564c3459da5a0e",
+  "seqno": 39,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMPHAnicrVN9TFZVHObDQD4Uy6lzoW4XMUVh59zvC20lfutyMsayRF/OvedcuALv
+xXsvLyqioFApTmROWstpIZWbhs0YtBAZvnwYXzYFbZlzfhJqLiVDU7FzqdZq/dn9
+59xz7vM8v+f3/O5pHRccEB7ozDlcsstAJLDrtJUf8HbkrvRCRjXxJiaxkMkmowvJ
+wcR2PNkGZhIZAAEUWAglDcpA1AkGWEMAqRrkIYSsqilAIRwHWF5XNCCJRFNFVccK
+h6GuCJoiY44FiJnH6IY3k1h5luF1qCyEApEFEXNY5emCFI4nUIW8xLMK4mQoI1ER
+oShQYpZpuwxqTkU2STBMekY3nlF7/4H/n33n/yGnsQrQqUtqmaJYABVBlrAOWSzI
+CAAXaBPLi3IJRXtVhFEOUzSPySVWdg7xWKbpuNFqjuECoACBJEFWBrQ9ZGd5comD
+KE8VgCLxItIlWSYskpCgiDIrEh0jLGqACEjGLNZ0WQOyCiUVYqzossjKLoOGSF3Y
+ZIPXpBUkILOsTB1YxGdmE7e4bWTS0GwmcQ1DaNSQI1CTVBETrCPAIvqicQJQBawr
+CqZqiFM4hAAU6Xei6wQokOd4ldOIBnRmbZFbzPIZ2qi4O6V/dJ+gmbnUT55lOqZm
+5tDzLMfJsxPdVJxNeS6wgKiePyU8quHF9A+hDB+xbMP00h4o8l+BKew8hmzMMyzi
+MVyEIIkyoI9bh/iopCjROUHII5WTeQwlnqcBIU4nHCSqQkSe5qLpSNIhnSFmZYIF
+kdc4XlAwEhAgfyfIKdQnyqSaNDcvcvItwhSdbkkfExAYHhDyQpB7dQLCwyb8daGO
+lkY9z2xZdH92cVnxpc4VGf4T11TreWf/wVWzArZejBviJ2clrD4s1Gy598lHT9K3
+3+AGdyyaOnPm0sG2q9rV0raI1kmzQnpj6hcvudl+bejNwtxz3OOXaj7Y19wb5119
+RpxRkHZzyk8LSXmcer3jejzv9N2+6yy3H8b+WNBaH3GhZ9xgY1H9gvMTJ0+rMurS
+z8YeCbVT36naNlJ/vBx0mJkLN75yZfaION8+V5UZdCbsyYpZK09NKmlOrdh8quk1
+vkWcrt/xtzw760+VavOz/YFfBH/X+f2GK2zgt7cam3euWvZGyoVLa5eGjSjk0Moy
+T0PXXOStrN6ZlfbDh31MZfrHEU9fVF5G3f6y6Rdns57dPaGf6sNHu5jWg8+yxK+Y
+voYvqxJzImPnb6+NH1o955tHw1MzfD3eOQsGltQPHKxLaYu/MLb42Jju1Fg7ubZx
+/+3xUffnF6yLqb+35dluu6Dp+rAzweePfrqnsncovHLx5pBNTcmPj/Xd7b/1akry
+zI5fe8/ti+Ejq09U7PVbY4M/37LMmbYjsnLKgfakkqB3K5IGwk5azZcbzqftnVid
+NLfprfTsqppt7fHHGpdnBCdI0Yeif5myfuuRE7mp/HvlTJQVuhKd6r702fj4i/Bn
+Xx0jD/U/v3F53frfvn4/NWqNVpTcMfX1jXZt54wDTSefpJXerOzxHL/88FHcnZA9
+zMMHD34H7QUD/Q==
+=AUaA
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nbadal
+
+==================================================================
