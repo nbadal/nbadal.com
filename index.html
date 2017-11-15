@@ -1,35 +1,117 @@
-<html>
-	<head>
-		<link rel="stylesheet" type="text/css" href="css/reset.css">
-		<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
-		<style type="text/css">
-		* { font: 20px 'Ubuntu', sans-serif !important; color:#eee; }
-		ul { list-style: none; }
-		#links, #footer { display: block; text-align:center; }
-		#links { margin-top: 200px; margin-bottom: 20px; }
-		#apps {  }
-		li { margin-right: 20px; display: inline; }
-		#footer { margin-top: 200px; }
-		#links li a { font-size: 32px !important; }
-		a:link, a:visited { color:#B4C7D1; text-decoration: none; }
-		a:hover, a:active { color:#D0E6F2; text-decoration: underline; }
-		body { background-color: #222; color: #fff; }
-		</style>
-		<title>nbadal</title>
-		<!-- Google Analytics -->
-		<script>
-			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-			ga('create', 'UA-40401657-1', 'nbad.al');
-			ga('send', 'pageview');
-		</script>
-	</head>
-	<body>
-		<ul id="links">
-			<li id="linkedin"><a href="http://www.linkedin.com/in/nbadal">LinkedIn</a></li>
-		</ul>
-		<div id="footer">You can see my site's code on github too: <a href="http://www.github.com/nbadal/nbadal.github.io">http://www.github.com/nbadal/nbadal.github.io</a></div>
-	</body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-40401657-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-40401657-1');
+    </script>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Nick Badal</title>
+
+    <meta name="description" content="Portfolio, links, contact info and more">
+    <meta name="image" content="https://secure.gravatar.com/avatar/63c04ffc4c0e4a9e2d5f914fb45d8667?s=200">
+
+    <meta itemprop="name" content="Nick Badal">
+    <meta itemprop="description" content="Portfolio, links, contact info and more">
+    <meta itemprop="image" content="https://secure.gravatar.com/avatar/63c04ffc4c0e4a9e2d5f914fb45d8667?s=200">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Nick Badal">
+    <meta name="twitter:description" content="Portfolio, links, contact info and more">
+    <meta name="twitter:site" content="@_nbadal">
+    <meta name="twitter:creator" content="@_nbadal">
+    <meta name="twitter:image:src" content="https://secure.gravatar.com/avatar/63c04ffc4c0e4a9e2d5f914fb45d8667?s=200">
+
+    <meta name="og:title" content="Nick Badal">
+    <meta name="og:description" content="Portfolio, links, contact info and more">
+    <meta name="og:image" content="https://secure.gravatar.com/avatar/63c04ffc4c0e4a9e2d5f914fb45d8667?s=200">
+    <meta name="og:url" content="https://nbad.al">
+    <meta name="og:site_name" content="Nick Badal">
+    <meta name="og:type" content="website">
+
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css"
+          integrity="sha256-gvEnj2axkqIj4wbYhPjbWV7zttgpzBVEgHub9AAZQD4=" crossorigin="anonymous"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:700">
+    <style type="text/css">
+        body {
+            background: #222;
+        }
+
+        .eye {
+            display: inline-block;
+            margin: 50px;
+        }
+
+        #eyes {
+            margin-top: 150px;
+            text-align: center;
+        }
+
+        #eyes img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        #src {
+            display: inline-block;
+            position: fixed;
+            bottom: 0;
+            right: 0;
+            padding: 10px;
+        }
+
+        #src a {
+            font-family: 'Roboto', sans-serif;
+            font-weight: bold;
+            color: #555;
+        }
+    </style>
+
+    <script
+            src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.slim.min.js"
+            integrity="sha256-k2WSCIexGzOj3Euiig+TlR8gA0EmPjuc79OEeY5L45g=" crossorigin="anonymous"></script>
+    <script
+            src="https://cdnjs.cloudflare.com/ajax/libs/jQuery-Flip/1.1.2/jquery.flip.min.js"
+            integrity="sha256-CAgJ3dV4c4eWFBbunpYeUQZiRlVuR4NsizhWMKgN2L4=" crossorigin="anonymous"></script>
+</head>
+<body>
+<div id="eyes">
+    <div id="eye-in" class="eye">
+        <div class="front">
+            <img src="img/eye-closed.svg" alt="LinkedIn"/>
+        </div>
+        <div class="back">
+            <a href="https://www.linkedin.com/in/nbadal/"><img src="img/eye-in.svg" alt="LinkedIn"/></a>
+        </div>
+    </div>
+    <div id="eye-gh" class="eye">
+        <div class="front">
+            <img src="img/eye-closed.svg" alt="GitHub"/>
+        </div>
+        <div class="back">
+            <a href="https://www.github.com/nbadal/"><img src="img/eye-gh.svg" alt="GitHub"/></a>
+        </div>
+    </div>
+</div>
+
+<div id="src">
+    <a href="https://www.github.com/nbadal/nbadal.com">src</a>
+</div>
+<script type="text/javascript">
+    $(".eye").flip({
+        axis: 'x',
+        trigger: 'hover',
+        speed: 200
+    });
+</script>
+</body>
 </html>
