@@ -46,19 +46,52 @@
             background: #222;
         }
 
-        .eye {
-            display: inline-block;
-            margin: 50px;
-        }
-
         #eyes {
-            margin-top: 150px;
-            text-align: center;
+            display: flex;
+            width: 100vw;
+            height: 100vh;
+            align-items: center;
+            justify-content: center;
         }
 
-        #eyes img {
-            max-width: 100%;
-            height: auto;
+        .eye {
+            background-color: transparent;
+            width: 400px;
+            height: 250px;
+            margin: 60px;
+            perspective: 1000px;
+        }
+
+        .eye-inner {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            text-align: center;
+            transition: transform 0.5s;
+            transform-style: preserve-3d;
+        }
+
+        .eye:hover .eye-inner {
+            transform: rotateX(180deg);
+        }
+
+        .front, .back {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            -webkit-backface-visibility: hidden; /* Safari */
+            backface-visibility: hidden;
+        }
+
+        .front {
+            background: #222;
+            color: black;
+        }
+
+        .back {
+            background: #222;
+            color: white;
+            transform: rotateX(180deg);
         }
 
         #src {
@@ -67,51 +100,36 @@
             bottom: 0;
             right: 0;
             padding: 10px;
-        }
-
-        #src a {
             font-family: 'Roboto', sans-serif;
             font-weight: bold;
             color: #555;
         }
     </style>
-
-    <script
-            src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.slim.min.js"
-            integrity="sha256-k2WSCIexGzOj3Euiig+TlR8gA0EmPjuc79OEeY5L45g=" crossorigin="anonymous"></script>
-    <script
-            src="https://cdnjs.cloudflare.com/ajax/libs/jQuery-Flip/1.1.2/jquery.flip.min.js"
-            integrity="sha256-CAgJ3dV4c4eWFBbunpYeUQZiRlVuR4NsizhWMKgN2L4=" crossorigin="anonymous"></script>
 </head>
 <body>
 <div id="eyes">
     <div id="eye-in" class="eye">
-        <div class="front">
-            <img src="img/eye-closed.svg" alt="LinkedIn"/>
-        </div>
-        <div class="back">
-            <a href="https://www.linkedin.com/in/nbadal/"><img src="img/eye-in.svg" alt="LinkedIn"/></a>
+        <div class="eye-inner">
+            <div class="front">
+                <img src="img/eye-closed.svg" alt="LinkedIn"/>
+            </div>
+            <div class="back">
+                <a href="https://www.linkedin.com/in/nbadal/"><img src="img/eye-in.svg" alt="LinkedIn"/></a>
+            </div>
         </div>
     </div>
     <div id="eye-gh" class="eye">
-        <div class="front">
-            <img src="img/eye-closed.svg" alt="GitHub"/>
-        </div>
-        <div class="back">
-            <a href="https://www.github.com/nbadal/"><img src="img/eye-gh.svg" alt="GitHub"/></a>
+        <div class="eye-inner">
+            <div class="front">
+                <img src="img/eye-closed.svg" alt="GitHub"/>
+            </div>
+            <div class="back">
+                <a href="https://www.github.com/nbadal/"><img src="img/eye-gh.svg" alt="GitHub"/></a>
+            </div>
         </div>
     </div>
 </div>
 
-<div id="src">
-    <a href="https://www.github.com/nbadal/nbadal.com">src</a>
-</div>
-<script type="text/javascript">
-    $(".eye").flip({
-        axis: 'x',
-        trigger: 'hover',
-        speed: 200
-    });
-</script>
+<a href="https://www.github.com/nbadal/nbadal.com" id="src">src</a>
 </body>
 </html>
